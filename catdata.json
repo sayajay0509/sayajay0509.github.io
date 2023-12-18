@@ -1,0 +1,53 @@
+[
+    {
+        "id": 3,
+        "name": "Candy",
+        "imageUrl": "/cat4.jpg",
+        "age": "Age :11",
+        "content": "Born in South Korea",
+        "description": "Very cute, eat well, active!",
+        "price": "900$"
+    },
+    {
+        "id": 4,
+        "name": "Sweety",
+        "imageUrl": "/cat5.jpg",
+        "age": "Age: 2",
+        "content": "Born in USA",
+        "price": "1700$"
+    },
+    {
+        "id": 5,
+        "name": "Copi",
+        "imageUrl": "/cat6.jpg",
+        "age": "Age: 6",
+        "content": "Born in England",
+        "price": "1300$"
+    }
+    {
+        "id": 6,
+        "name": "Fellix",
+        "imageUrl": "/cat7.jpg",
+        "age": "Age : 1",
+        "content": "Born in France",
+        "description": "Very cute, eat well, active!",
+        "price": "2600$"
+    },
+    {
+        "id": 7,
+        "name": "Cooper",
+        "imageUrl": "/cat8.jpg",
+        "age": "Age: 3",
+        "content": "Born in Malaysia",
+        "price": "1900$"
+    },
+    {
+        "id": 8,
+        "name": "Benjamin",
+        "imageUrl": "/cat9.jpg",
+        "age": "Age: 7",
+        "content": "Born in Thailand",
+        "price": "1100$"
+    }
+
+]
