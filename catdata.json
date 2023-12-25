@@ -1,28 +1,28 @@
 [
      {
-        id: 0,
-        name: "Pillow",
-        imageUrl: "/cat1.jpg",
-        age: "Age :3",
-        content: "Born in Singapore",
-        description: "Very cute, eat well, active!",
-        price: "2000$"
+        "id": 0,
+        "name": "Pillow",
+        "imageUrl": "/cat1.jpg",
+        "age": "Age :3",
+        "content": "Born in Singapore",
+        "description": "Very cute, eat well, active!",
+        "price": "2000$"
     },
     {
-        id: 1,
-        name: "Cotton",
-        imageUrl: "/cat2.jpg",
-        age: "Age: 8",
-        content: "Born in Vietnam",
-        price: "1700$"
+        "id": 1,
+        "name": "Cotton",
+        "imageUrl": "/cat2.jpg",
+        "age": "Age: 8",
+        "content": "Born in Vietnam",
+        "price": "1700$"
     },
     {
-        id: 2,
-        name: "Kelly",
-        imageUrl: "/cat3.jpg",
-        age: "Age: 1",
-        content: "Born in Japan",
-        price: "2700$"
+        "id": 2,
+        "name": "Kelly",
+        "imageUrl": "/cat3.jpg",
+        "age": "Age: 1",
+        "content": "Born in Japan",
+        "price": "2700$"
     },
     {
         "id": 3,
